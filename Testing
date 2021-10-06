@@ -1,0 +1,7 @@
+testing SSH SSH.txt
+2nd line added at Remote Repo
+<<<<<<< HEAD:Testing.txt
+3rd line added in Vi
+=======
+3rd line in remote repo
+>>>>>>> 0046aa32d98656fdf4a97a089d79f1d7005c61b1:Testing
